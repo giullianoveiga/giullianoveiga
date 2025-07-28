@@ -62,6 +62,12 @@ Profissional com 5 anos de experiência em **Análise e Ciência de Dados**, atu
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge)
 
+<!-- Notebooks e Linguagens de Consulta -->
+![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linguagem M](https://img.shields.io/badge/Linguagem%20M-107C41?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-FFB900?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
 ---
 
 ## 🧩 Experiência Profissional
