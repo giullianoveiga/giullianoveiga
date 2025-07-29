@@ -70,30 +70,6 @@ Profissional com 5 anos de experiência em **Análise e Ciência de Dados**, atu
 
 ---
 
-## 🧩 Experiência Profissional
-
-**🔹 Grupo Branco & Oliveira (Nov/2024 – Atual)**  
-*Analista de Dados e Gestor do Setor de Dados e Automações*  
-- Gestão de dados e automações em grupo com 18 empresas.  
-- Criação de dashboards, ETL, APIs, análises financeiras e vendas.  
-- Desenvolvimento de sistemas e interfaces (frontend).
-
-**🔹 Lojão de 1 Tudo Distribuidora (Set/2022 – Jul/2024)**  
-*Implantação de Sistema e Análise de Dados*  
-- Desenvolvimento de sistema de estoque, vendas e financeiro.  
-- Geração de insights para aumento de vendas e produtividade.
-
-**🔹 Freelancer (Jan/2022 – Atual)**  
-*Projetos em Tecnologia, BI e Automação*  
-- Consultoria em sistemas, inteligência de negócios e automações.
-
-**🔹 Grupo Carmais (Fev/2015 – Out/2015)**  
-*Analista de Marketing & Dados*  
-- Criação de campanhas, banners e análises de CRM para vendas.  
-- Visualização e tratamento de dados para insights comerciais.
-
----
-
 ## 🎓 Formação Acadêmica
 
 - 📚 **Pós-graduação em Data Science e IA Expert** – *XPE Faculdade (em andamento)*  
@@ -114,11 +90,3 @@ Oracle Database | PostgreSQL | Python | Banco de Dados: Modelo Relacionamento | 
 - 🇮🇹 Italiano: **Avançado / Fluente**  
 - 🇺🇸 Inglês: **Intermediário Técnico**  
 - 🇧🇷 Português: **Nativo**
-
----
-
-## 📌 Objetivo
-
-Atuar como Cientista de Dados, Analista de Dados ou Desenvolvedor FrontEnd com foco em **projetos de IA, automações inteligentes e business intelligence**, utilizando tecnologias modernas para transformar dados em decisões estratégicas.
-
----
