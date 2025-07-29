@@ -74,7 +74,7 @@ Profissional com 5+ anos de experiência em **Análise e Ciência de Dados**, co
 
 ## 📘 Cursos & Certificações
 
-Oracle Database · PostgreSQL · Python · Git · Docker · Django (boas práticas, formulários, autenticação) · Algoritmos Escaláveis · Dispositivos Móveis · Programação Web · Modelagem de Dados · Excel (Macros, VBA, PROC-V, Fórmulas) · Windows para Devs
+Oracle Database | PostgreSQL | Python | Banco de Dados: Modelo Relacionamento | GIT | Programação para Dispositivos Móveis | Programação de Algoritmos Escaláveis | Windows para Desenvolvedores | Boas práticas no Django apps, pastas e paginação | Autenticação no Django formulários | Logica de programacao | Programação para internet | Excel criação de macros e automatização de tarefas | Excel: Domine o editor de planilhas | Excel: Personalizando e Automatizando tarefas com VBA | Excel: procv lógica booleana e busca por valores | Formulários no Django 3: Criando e validando dados | Funcções com excel: operações matemáticas e filtros | Docker
 
 ---
 
