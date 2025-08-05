@@ -8,12 +8,6 @@
 
 ---
 
-## 🧠 Sobre Mim
-
-Profissional com 5+ anos de experiência em **Análise e Ciência de Dados**, com foco em geração de **insights estratégicos**, **automação de processos**, e **integração de Inteligência Artificial**. Atuação em projetos com **LLMs**, **Machine Learning**, **BI** e **desenvolvimento web**, sempre unindo **dados, tecnologia e design** para criar soluções funcionais e impactantes.
-
----
-
 ## 🚀 Tecnologias & Ferramentas
 
 ### 🛠️ Linguagens
