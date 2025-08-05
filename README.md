@@ -54,7 +54,7 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
-
+![N8N](https://img.shields.io/badge/N8N-FA0F00?style=for-the-badge&logo=n8n&logoColor=white)
 ---
 
 ## 🎓 Formação Acadêmica
