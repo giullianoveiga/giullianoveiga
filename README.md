@@ -24,6 +24,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Bubble.io](https://img.shields.io/badge/Bubble.io-1A73E8?style=for-the-badge&logo=bubble&logoColor=white)
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-7B61FF?style=for-the-badge&logo=flutter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-7B61FF?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 ### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
