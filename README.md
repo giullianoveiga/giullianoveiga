@@ -74,5 +74,5 @@ Oracle Database | PostgreSQL | Python | Banco de Dados: Modelo Relacionamento | 
   📱 **WhatsApp:** +55 85 98170-8027  
   🔗 [LinkedIn](https://www.linkedin.com/in/giulliano-veiga) | [Instagram](https://www.instagram.com/giullianoveiga)
 
-> “Os dados falam, mas é preciso saber ouvir.” 🚀  
+> “Os números falam, mas é preciso saber ouvir.” 🚀  
 > — **Giulliano Veiga**
