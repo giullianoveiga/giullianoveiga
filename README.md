@@ -1,10 +1,7 @@
-# 👨‍💻 Giulliano Veiga Ferreira Filho
-
-**Cientista de Dados | Analista de Dados | Desenvolvimento | Automações & Inteligência Artificial**
-
-📧 **Email:** giullianoveiga@gmail.com  
-📱 **WhatsApp:** +55 85 98170-8027  
-🔗 [LinkedIn](https://www.linkedin.com/in/giulliano-veiga) | [Instagram](https://www.instagram.com/giullianoveiga)
+<h1 align="center">👨‍💻 Giulliano Veiga</h1>
+<p align="center">
+Analise e Ciência de Dados | Desenvolvimento | Automações & Inteligência Artificial
+</p>
 
 ---
 
@@ -69,3 +66,13 @@ Oracle Database | PostgreSQL | Python | Banco de Dados: Modelo Relacionamento | 
 - 🇮🇹 **Italiano:** Avançado / Fluente  
 - 🇺🇸 **Inglês:** Intermediário Técnico  
 - 🇧🇷 **Português:** Nativo
+
+## 🌐 Contato
+
+
+  📧 **Email:** giullianoveiga@gmail.com  
+  📱 **WhatsApp:** +55 85 98170-8027  
+  🔗 [LinkedIn](https://www.linkedin.com/in/giulliano-veiga) | [Instagram](https://www.instagram.com/giullianoveiga)
+
+> “Os dados falam, mas é preciso saber ouvir.” 🚀  
+> — **Giulliano Veiga**
