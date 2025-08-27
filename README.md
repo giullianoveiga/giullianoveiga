@@ -1,8 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+o+Giulliano+Veiga;Ci%C3%AAncia+de+Dados+%7C+IA+%7C+Automa%C3%A7%C3%B5es" alt="Typing SVG" />
+</p>
+
 <h1 align="center">👨‍💻 Giulliano Veiga</h1>
 <p align="center">
 Analise e Ciência de Dados | Desenvolvimento | Automações & Inteligência Artificial
 </p>
-
 ---
 
 ## 🚀 Tecnologias & Ferramentas
