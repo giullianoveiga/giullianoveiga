@@ -11,41 +11,41 @@ Analise e Ciência de Dados | Desenvolvimento | Automações & Inteligência Art
 ## 🚀 Tecnologias & Ferramentas
 
 #### 🛠️ Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
-![M](https://img.shields.io/badge/M-107C41?style=for-the-badge&logo=microsoft&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Python](https://img.shields.io/badge/Python-336791?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-336791?style=for-the-badge&logo=typescript&logoColor=black)
+![M](https://img.shields.io/badge/M-336791?style=for-the-badge&logo=microsoft&logoColor=white)
+![R](https://img.shields.io/badge/R-336791?style=for-the-badge&logo=r&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-336791?style=for-the-badge&logo=powerbi&logoColor=black)
+![JSON](https://img.shields.io/badge/JSON-336791?style=for-the-badge&logo=json&logoColor=white)
 
 #### ⚙️ Frameworks, IDE & Ferramentas
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node](https://img.shields.io/badge/Node-092E20?style=for-the-badge&logo=node&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-7B61FF?style=for-the-badge&logo=Streamlit&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-007ACC?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white)
-![Portainer](https://img.shields.io/badge/Portainer-007ACC?style=for-the-badge&logo=portainer&logoColor=white)
-![IA](https://img.shields.io/badge/IA-7E57C2?style=for-the-badge&logo=openai&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-FA0F00?style=for-the-badge&logo=n8n&logoColor=white)
+![Django](https://img.shields.io/badge/Django-336791?style=for-the-badge&logo=django&logoColor=white)
+![Node](https://img.shields.io/badge/Node-336791?style=for-the-badge&logo=node&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-336791?style=for-the-badge&logo=Streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-336791?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-336791?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-336791?style=for-the-badge&logo=pycharm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-336791?style=for-the-badge&logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-336791?style=for-the-badge&logo=portainer&logoColor=white)
+![IA](https://img.shields.io/badge/IA-336791?style=for-the-badge&logo=openai&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-336791?style=for-the-badge&logo=n8n&logoColor=white)
 
 #### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-336791?style=for-the-badge&logo=supabase&logoColor=white)
 
 #### 📊 Análise de Dados & BI
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Estatística Aplicada](https://img.shields.io/badge/Estatística-795548?style=for-the-badge&logo=apachespark&logoColor=white)
-![Análise Preditiva](https://img.shields.io/badge/Análise%20Preditiva-4CAF50?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power%20Query-00C896?style=for-the-badge&logo=microsoft&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-336791?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Estatística Aplicada](https://img.shields.io/badge/Estatística-336791?style=for-the-badge&logo=apachespark&logoColor=white)
+![Análise Preditiva](https://img.shields.io/badge/Análise%20Preditiva-336791?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-336791?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-336791?style=for-the-badge&logo=microsoft&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-336791?style=for-the-badge&logo=looker&logoColor=white)
 
 #### 🎨 Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-009541?style=for-the-badge&logo=coreldraw&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-336791?style=for-the-badge&logo=figma&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-336791?style=for-the-badge&logo=coreldraw&logoColor=white)
 
 ---
 
