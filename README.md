@@ -74,7 +74,7 @@ Oracle Database | PostgreSQL | Python | Banco de Dados: Modelo Relacionamento | 
 
 
   📧 **Email:** giullianoveiga@gmail.com  
-  📱 **WhatsApp:** +55 85 98170-8027  
+  📱 **WhatsApp:** +55 99 99193-7137
   🔗 [LinkedIn](https://www.linkedin.com/in/giulliano-veiga) | [Instagram](https://www.instagram.com/giullianoveiga)
 
 > “Os números falam, mas é preciso saber ouvir.” 🚀  
