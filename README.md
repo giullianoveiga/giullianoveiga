@@ -35,7 +35,7 @@ Analise e Ciência de Dados | Desenvolvimento | Automações & Inteligência Art
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-336791?style=for-the-badge&logo=supabase&logoColor=white)
 
-#### 📊 Análise de Dados & BI
+#### 📊 Análise e Ciência de Dados & BI
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-336791?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Estatística Aplicada](https://img.shields.io/badge/Estatística-336791?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Análise Preditiva](https://img.shields.io/badge/Análise%20Preditiva-336791?style=for-the-badge&logo=scikitlearn&logoColor=white)
