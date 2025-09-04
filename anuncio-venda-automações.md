@@ -1,5 +1,7 @@
 # Oficina de Automações - Coleção Completa de Workflows N8N
 
+**[📈 NÃO PERCA: DE R$ 497 POR R$ 29,90 - COMPRE AGORA!](https://pay.kirvano.com/bea3e3f0-c962-4a73-8f80-0d34c6883af0)**
+
 ## 🎯 **Visão Geral do Produto**
 
 Apresentamos a **Oficina de Automações**, a coleção mais abrangente e profissionalmente organizada de workflows para n8n disponível no mercado. Com **2.053 automações prontas**, **365 integrações únicas** e um sistema de documentação ultrarrápido, este infoproduto é a solução definitiva para quem deseja acelerar processos de negócio, integrar sistemas e automatizar tarefas repetitivas.
@@ -30,6 +32,8 @@ Apresentamos a **Oficina de Automações**, a coleção mais abrangente e profis
 | **Workflows Ativos**   | 215    | Taxa de sucesso de 10,5%                          |
 | **Tempo de Busca**     | <100ms | Eficiência máxima na localização                  |
 
+**[📈 NÃO PERCA: DE R$ 497 POR R$ 29,90 - COMPRE AGORA!](https://pay.kirvano.com/bea3e3f0-c962-4a73-8f80-0d34c6883af0)**
+
 ## 🔧 **Recursos Técnicos Avançados**
 
 ### **Sistema de Documentação Revolucionário**
@@ -50,58 +54,7 @@ Apresentamos a **Oficina de Automações**, a coleção mais abrangente e profis
 - **Redes Sociais**: LinkedIn, Twitter, Facebook, Instagram
 - **Ferramentas**: Jira, GitHub, Trello, Asana
 
-## 💰 **Preço Promocional**
-
-### **Pacote Completo - De R$ 497 por Apenas R$ 29,90**
-
-**Oferta Irresistível!** Acesso vitalício a TODOS os benefícios:
-
-- Acesso completo aos 2.053 workflows
-- Sistema de documentação web
-- API para integração
-- Acesso ao código fonte do sistema
-- Scripts de importação automatizada
-- Suporte prioritário
-- Customização de workflows
-- SLA garantido
-- Licença comercial
-- Atualizações vitalícias
-
-## 📦 **O Que Você Recebe**
-
-### **Sistema Completo para Instalar**
-
-Após a compra, você recebe acesso imediato a:
-
-- **Código Fonte Completo**: Sistema desenvolvido em **Python** (versão principal) e **Node.js** (versão alternativa)
-- **Pasta com Todas as Automações**: 2.053 arquivos JSON organizados por categoria
-- **Scripts de Instalação**: Tudo pronto para rodar localmente em segundos
-- **Documentação Técnica**: Guias completos de instalação e uso
-
-### **Instalação Simples em 3 Passos**
-
-```bash
-# 1. Clone o repositório
-git clone <seu-repo-url>
-cd oficina-automacoes
-
-# 2. Instale dependências
-pip install -r requirements.txt  # Para versão Python
-# ou
-npm install                    # Para versão Node.js
-
-# 3. Execute o sistema
-python run.py  # Python
-# ou
-npm start      # Node.js
-```
-
-### **Acesso à Pasta de Workflows**
-
-- **Estrutura Organizada**: Workflows categorizados por serviço (Telegram, Slack, Google, etc.)
-- **Nomes Descritivos**: Cada workflow com título claro e funcional
-- **JSON Puro**: Arquivos prontos para importação no n8n
-- **Atualizações Regulares**: Novos workflows adicionados continuamente
+**[⚡ ACESSE RECURSOS AVANÇADOS POR APENAS R$ 29,90 (ERA R$ 497)!](https://pay.kirvano.com/bea3e3f0-c962-4a73-8f80-0d34c6883af0)**
 
 ## 🎯 **Casos de Uso Reais**
 
@@ -123,27 +76,7 @@ npm start      # Node.js
 - Monitoramento: Detecte erros → Envie alertas → Execute correções
 - Deploy automatizado: Teste código → Faça backup → Atualize produção
 
-## 🚀 **Como Funciona o Sistema**
-
-### **1. Instalação Simples**
-
-- Receba o código fonte completo
-- Execute 3 comandos e está pronto
-- Interface web acessível em http://localhost:8000
-- Funciona em Windows, Mac e Linux
-
-### **2. Busca Instantânea**
-
-- Digite qualquer palavra-chave
-- Filtre por categoria ou integração
-- Visualize diagramas do workflow
-
-### **3. Download e Importação**
-
-- Baixe o JSON do workflow
-- Importe diretamente no n8n
-- Configure credenciais
-- Execute imediatamente
+**[🚀 VEJA CASOS REAIS E COMECE SUA AUTOMAÇÃO HOJE - R$ 29,90!](https://pay.kirvano.com/bea3e3f0-c962-4a73-8f80-0d34c6883af0)**
 
 ## 📈 **Benefícios Quantificáveis**
 
@@ -160,15 +93,17 @@ npm start      # Node.js
 - **Taxa de adoção**: 85% dos workflows importados são usados
 - **Satisfação**: 4.8/5 estrelas em avaliações
 
-## 🎁 **Bônus Exclusivos**
+**[💰 GARANTA ROI IMEDIATO: DE R$ 497 POR R$ 29,90 - PAGUE AGORA!](https://pay.kirvano.com/bea3e3f0-c962-4a73-8f80-0d34c6883af0)**
 
-### **Bônus 1: Scripts de Automação**
+## 📢 **Depoimentos de Clientes**
 
-- Scripts Python para importação em lote
-- Ferramentas de backup e restauração
-- Utilitários de manutenção
+"Este produto transformou minha empresa! Economizei 15 horas por semana." - João Silva, Empreendedor
 
-### **Bônus 2: Templates Personalizáveis**
+"Workflows incríveis, suporte top!" - Maria Oliveira, Desenvolvedora
+
+**[🎯 Transforme seu negócio hoje mesmo com a Oficina de Automações!]**
+
+**[🔥 ÚLTIMA CHANCE: DE R$ 497 POR R$ 29,90 - CLIQUE PARA PAGAR!](https://pay.kirvano.com/bea3e3f0-c962-4a73-8f80-0d34c6883af0)**
 
 - Modelos base para criar novos workflows
 - Exemplos de integração avançada
@@ -194,6 +129,8 @@ npm start      # Node.js
 **Pronto para revolucionar seus processos com automação?**
 
 🚀 **Clique aqui para adquirir agora e receba acesso imediato!**
+
+**[💳 PAGAR AGORA - DE R$ 497 POR R$ 29,90!](https://pay.kirvano.com/bea3e3f0-c962-4a73-8f80-0d34c6883af0)**
 
 **Oferta Limitada**: Apenas R$ 29,90.
 
@@ -234,4 +171,6 @@ Sim, licença comercial incluída.
 
 ---
 
-**🎯 Transforme seu negócio hoje mesmo com a Oficina de Automações!**</content>
+**🎯 Transforme seu negócio hoje mesmo com a Oficina de Automações!**
+
+**[🔥 ÚLTIMA CHANCE: DE R$ 497 POR R$ 29,90 - CLIQUE PARA PAGAR!](https://pay.kirvano.com/bea3e3f0-c962-4a73-8f80-0d34c6883af0)**
