@@ -1,85 +1,73 @@
-# 👨‍💻 Giulliano Veiga Ferreira Filho
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Giulliano+Veiga;Fullstack+Developer;Data+Science+%7C+AI+%7C+Automation" alt="Typing SVG" />
+</p>
 
-**Data Scientist | Data Analyst | Developer | Automation & Artificial Intelligence**
+<h1 align="center">👨‍💻 Giulliano Veiga</h1>
 
-📧 **Email:** giullianoveiga@gmail.com  
-📱 **WhatsApp:** +55 85 98170-8027  
-🔗 [LinkedIn](https://www.linkedin.com/in/giulliano-veiga) | [Instagram](https://www.instagram.com/giullianoveiga)
+<p align="center">
+  <strong>Fullstack Systems Developer | AI & Data Science Specialist</strong>
+</p>
 
----
-
-## 🧠 About Me
-
-Data professional with 5+ years of experience in **Data Analysis and Data Science**, specializing in the development of **intelligent automations**, **data processing**, and **strategic insights**. I’ve led and contributed to projects involving **LLMs**, **applied AI**, **Machine Learning**, and **Business Intelligence**, always combining data, technology, and design to create impactful and functional solutions.
+<p align="center">
+  Specialized in building robust systems using <b>TypeScript, Node.js, and Next.js</b>, alongside creating intelligent solutions with <b>Python and AI implementation</b> for process optimization and predictive analysis.
+</p>
 
 ---
 
 ## 🚀 Technologies & Tools
 
-### 🛠️ Languages
+### 💻 Fullstack Development & AI
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Power Query (M)](https://img.shields.io/badge/M%20Language-107C41?style=for-the-badge)
-![DAX](https://img.shields.io/badge/DAX-FFB900?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-### ⚙️ Frameworks & Platforms
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Bubble.io](https://img.shields.io/badge/Bubble.io-1A73E8?style=for-the-badge&logo=bubble&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-7B61FF?style=for-the-badge&logo=flutter&logoColor=white)
+![OpenAI](https://img.shields.io/badge/AI%20Implementation-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
 
-### 🗄️ Databases
+### 📊 Data Science & BI
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
+### 🗄️ Infrastructure & Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 📊 Data & BI Tools
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge)
-![Applied Statistics](https://img.shields.io/badge/Applied%20Statistics-795548?style=for-the-badge)
-![Predictive Analysis](https://img.shields.io/badge/Predictive%20Analysis-4CAF50?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-00C896?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-009541?style=for-the-badge&logo=coreldraw&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-### 💻 IDEs & Development
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-
-### 🔧 Others
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-7E57C2?style=for-the-badge)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🎓 Academic Background
-
-- 📚 *Postgraduate in Data Science & AI Expert* – XPE (ongoing)  
-- 🤖 *Postgraduate in Machine Learning* – XPE  
-- 🎓 *Postgraduate in Data Science* – XPE  
-- 💻 *Bachelor’s in Systems Analysis & Development* – Estácio
+## 📁 Featured Projects
+* **JusCálculo**: A SaaS platform for complex legal calculations and automation.
+* **Outbound**: A mobile puzzle game focused on grid logic and Firebase integration.
+* **Smart Automations**: AI-driven workflows using n8n for data-heavy business processes.
 
 ---
 
-## 📘 Courses & Certifications
+## 🎓 Education
 
-Oracle Database | PostgreSQL | Python | Databases: Relational Model | GIT | Mobile Device Programming | Scalable Algorithm Programming | Windows for Developers | Django Best Practices: Apps, Folders, and Pagination | Django Form Authentication | Programming Logic | Web Programming | Excel: Creating Macros and Task Automation | Excel: Mastering the Spreadsheet Editor | Excel: Customizing and Automating Tasks with VBA | Excel: VLOOKUP, Boolean Logic, and Value Search | Django 3 Forms: Creating and Validating Data | Excel Functions: Math Operations and Filters | Docker
+- 📚 **Post-Graduate in Data Science & AI Expert** – XPE  
+- 🤖 **Post-Graduate in Machine Learning** – XPE    
+- 🎓 **Post-Graduate in Data Science** – XPE    
+- 💻 **B.S. in Analysis and Systems Development** – Estácio
 
 ---
 
 ## 🌍 Languages
 
 - 🇮🇹 **Italian:** Advanced / Fluent  
-- 🇺🇸 **English:** Intermediate (Technical)  
+- 🇺🇸 **English:** Technical Intermediate  
 - 🇧🇷 **Portuguese:** Native
+
+## 🌐 Contact
+
+<p align="left">
+  <a href="mailto:giullianoveiga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/5599991937137"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/giulliano-veiga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
+
+> “Numbers speak, but you have to know how to listen.” 🚀  
+> — **Giulliano Veiga**
