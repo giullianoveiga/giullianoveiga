@@ -21,12 +21,19 @@
 
 ---
 
-## 🌐 Projetos em Produção (Developer)
-Desenvolvedor e mantenedor das seguintes plataformas:
+## 📁 Portfólio & Projetos
 
+### 🌐 Plataformas & SaaS
 * 🏭 **[Fábrica Digital](https://www.fabricadigital.online)** – Agência de soluções digitais e automação.
 * ⚖️ **[JusCálculo](https://www.juscalculo.online)** – SaaS para cálculos jurídicos trabalhistas e previdenciários.
 * 🧮 **[Nossa Calculadora](https://www.nossacalculadora.online)** – Ferramenta online de cálculos diversos.
+
+### 🤖 Inovação em IA
+* 📜 **PetitionPilot (Gerador de Petições)** – Sistema com arquitetura multi-agente para redação automática de peças jurídicas.
+
+### 🎮 Desenvolvimento de Jogos
+* 🧩 **Outbound** – Jogo mobile de puzzle focado em lógica de grid (Flutter).
+* 👾 **Cyberpunk Dev** – Idle game de simulação de carreira, de estagiário a lenda tech (React).
 
 ---
 
