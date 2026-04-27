@@ -5,74 +5,72 @@
 <h1 align="center">👨‍💻 Giulliano Veiga</h1>
 
 <p align="center">
-  <strong>Especialista em Inteligência Artificial | Gestor de Equipes de TI & Dados</strong>
+  <strong>Gestor de Dados, TI e Desenvolvedor Full-stack</strong>
 </p>
 
 <p align="center">
-  Líder técnico com foco na <b>gestão de equipes multidisciplinares (Dados e TI)</b> e desenvolvimento de soluções de alta performance. Combino expertise em <b>Inteligência Artificial, Python e Fullstack</b> para criar produtos escaláveis e liderar times rumo à cultura Data-Driven.
+  Especialista com mais de 8 anos de experiência em tecnologia. Atualmente focado no setor jurídico, desenvolvendo soluções que unem <b>Inteligência Artificial</b>, <b>Automação</b> e <b>Dashboards Estratégicos</b> para transformar dados em resultados mensuráveis.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/giulliano-veiga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:giullianoveiga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/5599991937137"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🚀 Liderança & Gestão
-* **Gestão de Equipes de TI:** Liderança de squads de desenvolvimento e infraestrutura.
-* **Gestão de Setores de Dados:** Estruturação de pipelines de dados e times de BI/Analytics.
-* **Mentoria Técnica:** Orientação de desenvolvedores e cientistas de dados em arquitetura e boas práticas.
+## 🚀 Liderança & Expertise
+* **Gestão Multidisciplinar:** Liderança de equipes de TI e Dados, traduzindo necessidades complexas de negócio em arquiteturas escaláveis.
+* **Cultura Data-Driven:** Implementação de pipelines de ETL complexos e dashboards para tomada de decisão em diversos setores (Jurídico, Comercial, Financeiro e Industrial).
+* **Automação Inteligente:** Especialista em n8n e integração de APIs (como Evolution API) para otimização de processos empresariais.
 
 ---
 
-## 📁 Portfólio & Projetos
+## 📁 Projetos em Destaque
 
-### 🌐 Plataformas & SaaS
-* 🏭 **[Fábrica Digital](https://www.fabricadigital.online)** – Agência de soluções digitais e automação.
-* ⚖️ **[JusCálculo](https://www.juscalculo.online)** – SaaS para cálculos jurídicos trabalhistas e previdenciários.
-* 🧮 **[Nossa Calculadora](https://www.nossacalculadora.online)** – Ferramenta online de cálculos diversos.
+### 🌐 Ecossistema Digital
+* 🏭 **[Fábrica Digital](https://www.fabricadigital.online)** – Agência especializada em automação e software sob medida.
+* ⚖️ **[JusCálculo](https://www.juscalculo.online)** – SaaS focado em cálculos jurídicos trabalhistas e previdenciários.
+* 📜 **PetitionPilot** – Sistema multi-agente para redação automática de petições jurídicas com IA.
 
-### 🤖 Inovação em IA
-* 📜 **PetitionPilot (Gerador de Petições)** – Sistema com arquitetura multi-agente para redação automática de peças jurídicas.
-
-### 🎮 Desenvolvimento de Jogos
-* 🧩 **Outbound** – Jogo mobile de puzzle focado em lógica de grid (Flutter).
-* 👾 **Cyberpunk Dev** – Idle game de simulação de carreira, de estagiário a lenda tech (React).
+### 🎮 Game Development
+* 🧩 **Outbound** – Jogo mobile de puzzle e lógica de grid desenvolvido em Flutter.
+* 👾 **Cyberpunk Dev** – Simulador de carreira tech (Idle game).
+* 🕵️ **O Eco de Penhasco Negro** – Jogo de investigação com experiência interativa multi-telas.
 
 ---
 
 ## 💻 Stack Tecnológico
 
-### IA & Ciência de Dados
-![OpenAI](https://img.shields.io/badge/AI%20Implementation-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### **Inteligência Artificial & Dados**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![LLMs](https://img.shields.io/badge/LLMs%20%26%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
+* Python (Pandas, Scikit-Learn), SQL, Looker, Machine Learning e Engenharia de Prompts.
 
-### Fullstack & Infra
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+### **Desenvolvimento Full-stack**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+* Tailwind CSS, Django, Firebase e PostgreSQL.
+
+### **Automação & Low-code**
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+* Automações de workflow, integração de APIs e sistemas de mensageria.
 
 ---
 
 ## 🎓 Formação Acadêmica
-
-- 📚 **Pós-graduação em Data Science & IA Expert** – XPE  
-- 🤖 **Pós-graduação em Machine Learning** – XPE    
-- 🎓 **Pós-graduação em Ciência de Dados** – XPE    
-- 💻 **Graduação em Análise e Desenvolvimento de Sistemas** – Estácio
+- 🤖 **Pós-graduação em Ciência de Dados e Inteligência Artificial** – XP Educação.
+- 💻 **Graduação em Análise e Desenvolvimento de Sistemas** – Universidade Estácio de Sá.
+- 📜 **Especializações:** Machine Learning, IA Generativa, Django Rest Framework e VBA/Macros.
 
 ---
 
 ## 🌍 Idiomas
+- 🇮🇹 **Italiano:** Fluente.
+- 🇺🇸 **Inglês:** Intermediário Técnico.
+- 🇧🇷 **Português:** Nativo.
 
-- 🇮🇹 **Italiano:** Avançado / Fluente  
-- 🇺🇸 **Inglês:** Intermediário Técnico  
-- 🇧🇷 **Português:** Nativo
+---
 
-## 🌐 Contato
-
-<p align="left">
-  <a href="mailto:giullianoveiga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/5599991937137"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/giulliano-veiga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <i>"Trabalho na intersecção entre código, dados e estratégia para construir o futuro da tecnologia jurídica e empresarial."</i>
 </p>
