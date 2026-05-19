@@ -5,7 +5,7 @@
 <h1 align="center">👨‍💻 Giulliano Veiga</h1>
 
 <p align="center">
-  <strong>Gestor de Dados, TI e Desenvolvedor Full-stack</strong><br/>
+  <strong>Desenvolvedor Full-stack</strong><br/>
   📍 Codó, Maranhão, Brasil • 🌐 Disponível para oportunidades remotas
 </p>
 
@@ -32,7 +32,6 @@
 
 > *"Trabalho na intersecção entre código, dados e estratégia para construir o futuro da tecnologia jurídica e empresarial."*
 
-- 🔭 Atualmente: **Gestor de Dados, TI e DEV** na Branco e Oliveira Advogados Associados
 - 🚀 Foco: **IA Generativa**, **Automação com n8n**, **Dashboards Estratégicos** e **Sistemas Full-stack**
 - 🌱 Aprendendo: Arquitetura de Agentes de IA, Engenharia de Prompt Avançada e Escalabilidade em Cloud
 - 💬 Me pergunte sobre: Python, SQL, Power BI, React/Next.js, n8n e integração de APIs
